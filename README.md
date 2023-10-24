@@ -5,14 +5,14 @@
 ```
 Print ("Hello")
 ```
-# maka outputnya
+## maka outputnya
 ![Alt text](<latian 1-1.png>)
 
 * Menampilkan tulisan “Saya sedang belajar python” dilayar
 ```
 Print ("Saya sedang belajar python")
 ```
-# maka outputnya
+## maka outputnya
 ![Alt text](image-2.png)
 
 # Latihan 2
@@ -29,12 +29,23 @@ print("Variable a=",a )
 print("Variable b=",b )
 print("Hasil penjumlahan a+b=",a + b )
 ```
-# maka inputnya 
+## maka outputnya
+![Alt text](<latian 2.png>)
+
+
+# Latihan 3
+
+* Menjalankan VSCODE
+* Membuat file baru dengan nama latihan3.py (pastikan lokasi file pada folder lab2py pada direktori kerja anda)
+* Menggunakan fungsi input untuk mengambil nilai variabel dari keyboard.
+
+
+## maka inputnya 
 ![Alt text](<latian 3.png>)
 
-# maka outputnya
+## maka outputnya
 ![Alt text](<latian 3.3.png>)
 
-Sekian penjelasan dari saya
+### Sekian penjelasan dari saya
 
-TERIMA KASIH
+# TERIMA KASIH
