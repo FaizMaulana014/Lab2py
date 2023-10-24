@@ -1,1 +1,40 @@
-# Lab2py
+# Praktikum Python
+# Latihan 1 
+* Menjalankan Python Console
+* Menampilkan tulisan “Hello” dilayar
+```
+Print ("Hello")
+```
+# maka outputnya
+![Alt text](<latian 1-1.png>)
+
+* Menampilkan tulisan “Saya sedang belajar python” dilayar
+```
+Print ("Saya sedang belajar python")
+```
+# maka outputnya
+![Alt text](image-2.png)
+
+# Latihan 2
+* Menjumlahkan dua buah bilangan menggunakan variabel a dan b.
+* Mendefinisikan variable a dengan nilai 8
+* Mendefinisikan variable b dengan nilai 6
+* Mencetak nilai variable a dan b
+* Mencetak hasil penjumlahan a+b
+
+```
+a = 8
+b = 6
+print("Variable a=",a )
+print("Variable b=",b )
+print("Hasil penjumlahan a+b=",a + b )
+```
+# maka inputnya 
+![Alt text](<latian 3.png>)
+
+# maka outputnya
+![Alt text](<latian 3.3.png>)
+
+Sekian penjelasan dari saya
+
+TERIMA KASIH
